@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ankita singh</h1>
 <h3 align="center">Software Development Enthusiast | Passionate Coder</h3>
-<img align="right" alt="coding & coffee" width="500" src="https://cdn.dribbble.com/userupload/9885161/file/original-ea59665ee88d1c9fc1dddca426590a9d.gif">
+<img align="right" alt="coding & coffee" width="400" src="https://cdn.dribbble.com/userupload/9885161/file/original-ea59665ee88d1c9fc1dddca426590a9d.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshi1208&label=Profile%20views&color=0e75b6&style=flat" alt="anshi1208" /> </p>
 
