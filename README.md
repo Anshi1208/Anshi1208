@@ -7,9 +7,9 @@
 
 - 👨‍💻 Here is my Portfolio [https://portfolio-anshi1208s-projects.vercel.app/](https://portfolio-anshi1208s-projects.vercel.app/)
 
-- 💬 Ask me about HTML, CSS, Javascript, React
-
 - 📫 How to reach me **ankita638738@gmail.com**
+
+- 💬 Ask me about HTML, CSS, Javascript, React
 
 - ⚡ Fun fact Frontend developers are like web wizards—making pixels dance and buttons sing!
 
