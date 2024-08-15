@@ -3,13 +3,13 @@
 <img align="right" alt="coding & coffee" width="350" src="https://cdn.dribbble.com/userupload/9885161/file/original-ea59665ee88d1c9fc1dddca426590a9d.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshi1208&label=Profile%20views&color=0e75b6&style=flat" alt="anshi1208" /> </p>
-- 🌱 I’m currently learning MongoDB
+- 🌱 I’m currently learning **MongoDB**
 
 - 👨‍💻 Here is my Portfolio [https://portfolio-anshi1208s-projects.vercel.app/](https://portfolio-anshi1208s-projects.vercel.app/)
 
 - 📫 How to reach me **ankita638738@gmail.com**
 
-- 💬 Ask me about HTML, CSS, Javascript, React
+- 💬 Ask me about **HTML, CSS, Javascript, React JS**
 
 - ⚡ Fun fact Frontend developers are like web wizards—making pixels dance and buttons sing!
 
