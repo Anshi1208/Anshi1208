@@ -36,8 +36,8 @@ I love turning ideas into reality on the web. I bring a combination of technical
 # 📊 GitHub Stats:
 
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px; margin:auto">
-    <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs?username=anshi1208&show_icons=true&locale=en&layout=compact" alt="anshi1208" />
-    <img height="200px" src="https://github-readme-stats.vercel.app/api?username=anshi1208&show_icons=true&locale=en" alt="anshi1208" />
+    <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs?username=anshi1208&show_icons=true&locale=en&layout=compact" alt="anshi1208" />
+    <img height="160px" src="https://github-readme-stats.vercel.app/api?username=anshi1208&show_icons=true&locale=en" alt="anshi1208" />
     <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=anshi1208&" alt="anshi1208" />
 </div>
 <br>
