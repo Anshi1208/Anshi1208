@@ -1,15 +1,19 @@
-<h1 align="center">Hi 👋, I'm Ankita singh</h1>
-<h3 align="center"> Front-end Developer</h3>
-<img align="right" alt="coding & coffee" width="350" src="https://cdn.dribbble.com/userupload/9885161/file/original-ea59665ee88d1c9fc1dddca426590a9d.gif">
+<h2 align="center">Hi there 👋, I'm Ankita singh [Front-end Developer]</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anshi1208&label=Profile%20views&color=0e75b6&style=flat" alt="anshi1208" /> </p>
+## ✨ About Me :
+I love turning ideas into reality on the web. I bring a combination of technical expertise, organization, and clear communication to my work. With a focus on precision and efficiency, I build intuitive and user-friendly websites. I thrive on designing interactive interfaces and ensuring that every project is both visually stunning and functionally robust across all devices.
+<br>
+<br>
+
+<img align="right" alt="coding & coffee" width="320" height="200" src="https://cdn.dribbble.com/userupload/9885161/file/original-ea59665ee88d1c9fc1dddca426590a9d.gif">
+
 - 🌱 I’m currently learning MongoDB
+  
+-  💬 Ask me about **HTML, CSS, Javascript, React JS**
 
 - 👨‍💻 Here is my Portfolio [https://portfolio-anshi1208s-projects.vercel.app/](https://portfolio-anshi1208s-projects.vercel.app/)
 
 - 📫 How to reach me **ankita638738@gmail.com**
-
-- 💬 Ask me about **HTML, CSS, Javascript, React JS**
 
 - ⚡ Fun fact Frontend developers are like web wizards—making pixels dance and buttons sing!
 
@@ -31,11 +35,13 @@
 
 # 📊 GitHub Stats:
 
-<div style="display = "grid" justify-content =  "center" flex-direction= "column" align-items= "center">
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px; margin:auto">
     <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs?username=anshi1208&show_icons=true&locale=en&layout=compact" alt="anshi1208" />
     <img height="200px" src="https://github-readme-stats.vercel.app/api?username=anshi1208&show_icons=true&locale=en" alt="anshi1208" />
     <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=anshi1208&" alt="anshi1208" />
 </div>
 <br>
-<p align="center">Thank You for visiting my Profile ☺</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anshi1208&label=Profile%20views&color=0e75b6&style=flat" alt="anshi1208" /> </p>
+<br>
+<p align="center">Thank You for visiting my Profile 😊</p>
 <img align="center" width="100%" height="20px" alt="coding & coffee"  src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/a0a02d64025249.5ac4bf6559751.gif">
