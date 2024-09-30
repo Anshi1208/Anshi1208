@@ -1,4 +1,4 @@
-<h2 align="center">Hi there 👋, I'm Ankita singh [Front-end Developer]</h2>
+<h2 align="center">Hi there 👋, I'm Ankita singh [Graduate Engineer Trainee]</h2>
 
 ## ✨ About Me :
 I love turning ideas into reality on the web. I bring a combination of technical expertise, organization, and clear communication to my work. With a focus on precision and efficiency, I build intuitive and user-friendly websites. I thrive on designing interactive interfaces and ensuring that every project is both visually stunning and functionally robust across all devices.
