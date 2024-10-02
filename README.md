@@ -19,7 +19,9 @@ I love turning ideas into reality on the web. I bring a combination of technical
 
 ## 📱 Connect with me :
 <p align="left">
-<a href="https://www.linkedin.com/in/ankita87/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ankita87" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ankita87/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
 </p>
 
 ## 💻 Tech Stack :
