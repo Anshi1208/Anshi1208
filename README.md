@@ -7,11 +7,9 @@ I love turning ideas into reality on the web. I bring a combination of technical
 
 <img align="right" alt="coding & coffee" width="320" height="200" src="https://cdn.dribbble.com/userupload/9885161/file/original-ea59665ee88d1c9fc1dddca426590a9d.gif">
 
-- 🌱 I’m currently learning MongoDB
+- 🌱 I’m currently learning **React JS, Linux**
   
 -  💬 Ask me about **HTML, CSS, Javascript, React JS**
-
-- 👨‍💻 Here is my Portfolio [https://portfolio-anshi1208s-projects.vercel.app/](https://portfolio-anshi1208s-projects.vercel.app/)
 
 - 📫 How to reach me **ankita638738@gmail.com**
 
@@ -21,6 +19,9 @@ I love turning ideas into reality on the web. I bring a combination of technical
 <p align="left">
 <a href="https://www.linkedin.com/in/ankita87/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+   <a href="https://portfolio-jgsm.vercel.app/" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </p>
 
